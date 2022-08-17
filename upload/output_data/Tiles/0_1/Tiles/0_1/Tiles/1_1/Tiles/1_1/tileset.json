@@ -1,0 +1,76 @@
+{
+  "asset": {
+    "version": "0.0"
+  },
+  "geometricError": 8,
+  "root": {
+    "children": [
+      {
+        "content": {
+          "url": "Tiles/0_0/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.1478526512371294,
+            0.7688593154015193,
+            -2.14784584735695,
+            0.7688664389792869,
+            5.084064000000002,
+            9.668256000000008
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/1_0/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.1478529527348793,
+            0.7688662789791857,
+            -2.147846148810933,
+            0.7688734025576598,
+            5.071871999999996,
+            32.196024
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/1_1/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.14784584735695,
+            0.7688664389792869,
+            -2.1478390433829735,
+            0.768873562533422,
+            5.806440000000004,
+            22.323552000000003
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      }
+    ],
+    "content": {
+      "url": "root.pnts"
+    },
+    "boundingVolume": {
+      "region": [
+        -2.1478526512371294,
+        0.7688593154015193,
+        -2.1478390433829735,
+        0.768873562533422,
+        5.071871999999996,
+        32.196024
+      ]
+    },
+    "geometricError": 8,
+    "refine": "replace"
+  }
+}

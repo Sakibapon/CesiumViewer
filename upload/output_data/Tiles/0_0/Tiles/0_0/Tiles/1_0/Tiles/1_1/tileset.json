@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "version": "0.0"
+  },
+  "geometricError": 8,
+  "root": {
+    "children": [
+      {
+        "content": {
+          "url": "Tiles/0_0/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.148051599585356,
+            0.7688548251125822,
+            -2.148044797106126,
+            0.768861949371756,
+            2.0269199999999934,
+            14.496288000000002
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/0_1/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.1480444943169945,
+            0.7688549858230651,
+            -2.148037691787727,
+            0.7688621100579055,
+            2.033016000000005,
+            15.636240000000004
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/1_0/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.1480519024223166,
+            0.7688617886601974,
+            -2.1480450998993392,
+            0.768868912920083,
+            2.033016000000005,
+            40.767
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/1_1/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.148044797106126,
+            0.768861949371756,
+            -2.14803799453311,
+            0.7688690736073078,
+            2.0360640000000023,
+            37.901880000000006
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      }
+    ],
+    "content": {
+      "url": "root.pnts"
+    },
+    "boundingVolume": {
+      "region": [
+        -2.148051599585356,
+        0.7688548251125822,
+        -2.14803799453311,
+        0.7688690736073078,
+        2.033016000000005,
+        40.767
+      ]
+    },
+    "geometricError": 8,
+    "refine": "replace"
+  }
+}

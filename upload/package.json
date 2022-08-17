@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.18.1",
+    "googleapis": "^39.2.0",
+    "request": "^2.88.2",
+    "yargs": "^17.5.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "viewer",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

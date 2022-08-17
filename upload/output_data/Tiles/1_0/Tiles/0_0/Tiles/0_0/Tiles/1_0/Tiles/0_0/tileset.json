@@ -1,0 +1,59 @@
+{
+  "asset": {
+    "version": "0.0"
+  },
+  "geometricError": 4,
+  "root": {
+    "children": [
+      {
+        "content": {
+          "url": "Tiles/0_1/0_1.pnts"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.148065892657617,
+            0.7689381465271139,
+            -2.148062491204757,
+            0.768941708682162,
+            3.3863280000000042,
+            17.492471999999996
+          ]
+        },
+        "geometricError": 2,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/1_1/1_1.pnts"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.148066044135953,
+            0.7689416282979635,
+            -2.148062642672153,
+            0.7689451904531887,
+            3.3863280000000042,
+            20.214336
+          ]
+        },
+        "geometricError": 2,
+        "refine": "replace"
+      }
+    ],
+    "content": {
+      "url": "root.pnts"
+    },
+    "boundingVolume": {
+      "region": [
+        -2.1480694455763016,
+        0.7689380661368318,
+        -2.148062642672153,
+        0.7689451904531887,
+        3.3863280000000042,
+        20.214336
+      ]
+    },
+    "geometricError": 4,
+    "refine": "replace"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "version": "0.0"
+  },
+  "geometricError": 4,
+  "root": {
+    "children": [
+      {
+        "content": {
+          "url": "Tiles/0_0/0_0.pnts"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.1479231004771795,
+            0.768843786878722,
+            -2.1479196988427285,
+            0.7688473487915379,
+            7.6962,
+            43.976544
+          ]
+        },
+        "geometricError": 2,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/0_1/0_1.pnts"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.1479195478712416,
+            0.768843867007386,
+            -2.1479161462242833,
+            0.768847428914119,
+            8.138159999999997,
+            40.425624
+          ]
+        },
+        "geometricError": 2,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/1_0/1_0.pnts"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.1479232514606226,
+            0.7688472686626058,
+            -2.1479198498152323,
+            0.7688508305755994,
+            8.833104000000006,
+            35.42690400000001
+          ]
+        },
+        "geometricError": 2,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/1_1/1_1.pnts"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.1479196988427285,
+            0.7688473487915379,
+            -2.14791629718483,
+            0.7688509106984478,
+            8.897112,
+            36.838128000000005
+          ]
+        },
+        "geometricError": 2,
+        "refine": "replace"
+      }
+    ],
+    "content": {
+      "url": "root.pnts"
+    },
+    "boundingVolume": {
+      "region": [
+        -2.1479231004771795,
+        0.768843786878722,
+        -2.14791629718483,
+        0.7688509106984478,
+        7.6962,
+        43.976544
+      ]
+    },
+    "geometricError": 4,
+    "refine": "replace"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "version": "0.0"
+  },
+  "geometricError": 8,
+  "root": {
+    "children": [
+      {
+        "content": {
+          "url": "Tiles/0_0/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.1479107013446397,
+            0.768885888768735,
+            -2.147903897689657,
+            0.7688930125440343,
+            6.8244719999999965,
+            23.277576000000003
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/0_1/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.1479035958408303,
+            0.7688860489753274,
+            -2.1478967921358136,
+            0.7688931727262884,
+            7.205471999999996,
+            19.254216000000007
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/1_0/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.1479110032412976,
+            0.7688928523363702,
+            -2.1479041995425514,
+            0.7688999761123759,
+            6.641592000000006,
+            36.09746399999999
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/1_1/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.147903897689657,
+            0.7688930125440343,
+            -2.147897093940875,
+            0.7689001362957021,
+            7.016495999999995,
+            23.582376000000004
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      }
+    ],
+    "content": {
+      "url": "root.pnts"
+    },
+    "boundingVolume": {
+      "region": [
+        -2.1479107013446397,
+        0.768885888768735,
+        -2.147897093940875,
+        0.7689001362957021,
+        6.684264000000002,
+        35.935919999999996
+      ]
+    },
+    "geometricError": 8,
+    "refine": "replace"
+  }
+}

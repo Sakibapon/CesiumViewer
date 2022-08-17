@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "version": "0.0"
+  },
+  "geometricError": 8,
+  "root": {
+    "children": [
+      {
+        "content": {
+          "url": "Tiles/0_0/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.1479391233378395,
+            0.7688852476882685,
+            -2.1479323198829987,
+            0.7688923715609168,
+            5.696712,
+            25.51785600000001
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/0_1/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.147932017842846,
+            0.7688854079965,
+            -2.1479252143379695,
+            0.7688925318448112,
+            5.2059839999999955,
+            38.07561599999999
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/1_0/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.147939425425825,
+            0.7688922112516133,
+            -2.147932621927223,
+            0.7688993351249692,
+            5.1328319999999925,
+            30.516576000000004
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      },
+      {
+        "content": {
+          "url": "Tiles/1_1/tileset.json"
+        },
+        "boundingVolume": {
+          "region": [
+            -2.1479323198829987,
+            0.7688923715609168,
+            -2.1479255163343605,
+            0.7688994954099356,
+            5.1663599999999965,
+            33.552383999999996
+          ]
+        },
+        "geometricError": 4,
+        "refine": "replace"
+      }
+    ],
+    "content": {
+      "url": "root.pnts"
+    },
+    "boundingVolume": {
+      "region": [
+        -2.1479391233378395,
+        0.7688852476882685,
+        -2.1479255163343605,
+        0.7688994954099356,
+        5.172456000000008,
+        37.69766399999999
+      ]
+    },
+    "geometricError": 8,
+    "refine": "replace"
+  }
+}
