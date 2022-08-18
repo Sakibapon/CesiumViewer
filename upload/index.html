@@ -32,7 +32,7 @@
 	
 	var viewer = new Cesium.Viewer('cesiumContainer');
 	
-  var url_local = '../output_data';
+  var url_local = 'output_data';
   var url_local_live = 'http://127.0.0.1:5500/data/';
   var url_local_IIS = 'http://localhost:8050/CesiumData/';
   var url_IIS_41 = 'http://192.168.0.41:8071/CesiumData/';
@@ -40,7 +40,7 @@
   var machine41 = '\\192.168.0.41\\f\\GB71\\Website\\cesium\\Data\\sample_data'
 
 	var tileset = viewer.scene.primitives.add(new Cesium.Cesium3DTileset({
-		url: url_IIS_41
+		url: url_local
 	}));
 	
 	tileset.readyPromise.then(function(tileset) {
