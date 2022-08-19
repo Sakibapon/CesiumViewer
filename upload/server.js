@@ -41,7 +41,7 @@
 
     var yargs = require('yargs').options({
         'port' : {
-            'default' : process.env.PORT || 5000,
+            'default' : process.env.PORT,
             'description' : 'Port to listen on.'
         },
         'public' : {
